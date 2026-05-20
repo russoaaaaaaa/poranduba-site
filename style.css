@@ -1,1 +1,13 @@
+.pagina-obra {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 40px 24px;
+}
 
+.pagina-obra h1 {
+  color: #e6d3a3;
+}
+
+.pagina-obra a {
+  color: #8cc8ff;
+}
